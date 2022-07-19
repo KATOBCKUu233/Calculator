@@ -1,0 +1,68 @@
+body,html {
+  height: 100%;
+  margin: -10 -10 -10 -10;
+}
+
+.background{
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.background.ver1{
+margin-top:-15%;
+min-height: 125%;
+background-size: 100%;
+background-image: url(https://i.playground.ru/p/qjrY1umjzi33OWIHIrsROg.jpeg);  
+}
+
+.background.ver2{
+  margin-top:-10%;
+min-height: 125%;
+background-size: 100%;
+background-image: url(https://i.playground.ru/p/Hq-F_wRoyYI4uahe9bBdQw.jpeg);  
+}
+
+.background.ver3{
+min-height: 125%;
+background-size: 100%;
+background-image: url(https://small-games.info/s/f/s/stormworks_build_and_rescue_13.jpg);  
+}
+.discription{
+  text-align: center;
+  font-size: 100pt;
+  color: white;
+  font-family: Verdana;
+  padding-top: 10%;
+}
+.aboutGame{
+  text-align: center;
+  font-size: 23pt;
+  color: white;
+  font-family: Verdana;
+  padding-top: 20%;
+}
+.photo{
+  width:50%;
+  float:left;
+}
+.company{
+  width:50%;
+  float:left;
+}
+.aboutCompany{
+  text-allign: center;
+  font-size: 50pt;
+  font-family: Verdana;
+  color: white;
+  padding-top: px;
+  padding-
+}
+
+#logoCompany{
+  width: 200px;
+  height: 200px;
+  margin-left: 25%;
+  margin-top: 233px;
+}

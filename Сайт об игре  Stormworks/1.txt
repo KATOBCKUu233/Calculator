@@ -1,0 +1,37 @@
+<html>
+<head>
+  <link rel= "stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <div class="background ver1">
+      <p class="discription">Stormworks</p>
+    </div>
+    
+    <div class="background ver2">
+      <p class="aboutGame">STORMWORKS: BUILD AND RESCUE<br>
+<br>
+
+Станьте частью мира, в котором вы придумываете и создаете поисково-спасательную службу, а потом управляете ей.<br>
+        <br>
+
+Stormworks: Build and Rescue — это богатая событиями «песочница» с точным расчетом «физики». Отправляйте свои программируемые транспортные средства из блоков на борьбу с жестокими океанскими бурями. Планируйте и выполняйте захватывающие спасательные операции в разных кризисных ситуациях. Делитесь своей техникой и заданиями с другими игроками через Мастерскую Steam.
+
+Stormworks: Build and Rescue — творите, спасайте и пробудите в себе героя!
+      
+    </div>
+    
+    <div class="background ver3">
+      
+      <div class="photo">
+        <img id="logoCompany" src="https://avatars.akamai.steamstatic.com/20ae542be2c2a56c1d0dda0af6f1d41bfa1002a4_full.jpg"
+             </div>
+      
+      <div class="company">
+           <p class="aboutCompany"> Geometa
+      </div>
+      
+    </div>
+    
+  </body>
+</html>
